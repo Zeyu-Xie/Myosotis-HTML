@@ -37,9 +37,15 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 ```
 
-爬虫行为
+搜索引擎爬虫行为：允许收录、遵循原链接
 
 ```
 <meta name="robots" content="index, follow">
+```
+
+引用行为：始终发送引用者信息
+
+```
+<meta content="always" name="referrer">
 ```
 
