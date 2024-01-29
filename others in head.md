@@ -32,5 +32,3 @@ Link 标签主要具有以下几个作用
    1. 其它语言版本 ```<link rel="alternate" hreflang="es" href="https://example.com/page-es.html">```
    2. RSS 或 Atom 源 ```<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://example.com/rss-feed.xml">```
 6. DNS 预解析 ```<link rel="dns-prefetch" href="https://example.com">```
-
-## 
