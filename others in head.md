@@ -1,4 +1,4 @@
-# Meta Labels in HTML
+# Others in Head
 
 ## Base
 
