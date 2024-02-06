@@ -17,9 +17,9 @@
 根据 Open Graph 协议，页面在社交媒体上展示的标题，图片和页面描述
 
 ```
-<meta name="author" content="Acan">
-<meta name="keywords" content="Education, Academy, Mathematics">
-<meta name="description" content="(Social Link by Acan) An article on mathematics education">
+<meta property="og:description" content="Acan's standard web template. ">
+<meta property="og:image" content="./ogImage.jpg">
+<meta property="og:title" content="Myosotis Config - Web">
 ```
 
 浏览器属性：页面渲染引擎、移动设备上的显示、主题色
